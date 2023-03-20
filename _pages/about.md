@@ -21,7 +21,7 @@ Habiba Farrukh, <b>Reham Mohamed Aburas</b>, Siyuan Cao, He Wang <br/>
 26th Annual International Conference on Mobile Computing and Networking (ACM MobiCom '20)	
 <br/>
 
-- <b>Al-Bayan: An Arabic Question Answering System for the Holy Quran </b> [[PDF]](https://aclanthology.org/W14-3607.pdf)[[data](https://github.com/rehammaburas/Al-Bayan-Quran-QA-Dataset)] <br/>
+- <b>Al-Bayan: An Arabic Question Answering System for the Holy Quran </b> [[PDF]](https://aclanthology.org/W14-3607.pdf)[[Data]](https://github.com/rehammaburas/Al-Bayan-Quran-QA-Dataset) <br/>
 Heba Abdelnasser, <b>Reham Mohamed (equal contribution)</b>, Maha Ragab,  Alaa Mohamed, Bassant Farouk, Nagwa El-Makky, Marwan Torki <br/>
 EMNLP 2014 Workshop on Arabic Natural Language Processing (ANLP '14)	
 <br/>
