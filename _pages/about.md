@@ -56,7 +56,6 @@ Heba Abdelnasser*,  Maha Ragab*, <b>Reham Mohamed*</b>, Alaa Mohamed*, Bassant F
 EMNLP 2014 Workshop on Arabic Natural Language Processing (ANLP '14)	
 <br/>
 
-- <b>MonoPHY: Mono-stream-based device-free WLAN localization via physical layer information</b> [[PDF]](https://rehammaburas.github.io/files/MonoPHY.pdf)
-<br/>
-Heba Abdelnasser*, <b>Reham Mohamed*</b>, Ibrahim Sabek and Moustafa Youssef
+- <b>MonoPHY: Mono-stream-based device-free WLAN localization via physical layer information</b> [[PDF]](https://rehammaburas.github.io/files/MonoPHY.pdf) <br/>
+Heba Abdelnasser*, <b>Reham Mohamed*</b>, Ibrahim Sabek and Moustafa Youssef <br/>
 IEEE Wireless Communications and Networking Conference (WCNC '13)
