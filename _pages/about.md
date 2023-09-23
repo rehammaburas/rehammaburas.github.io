@@ -15,8 +15,6 @@ I am a Ph.D. candidate in Computer Science Department at Purdue University, advi
 Publications
 ============
 
-For full list of publications, check my [Google scholar](https://scholar.google.com/citations?user=rdIzDcEAAAAJ&hl=en)
-
 - <b>ATTention Please! An investigation of the App Tracking Transparency Permission.</b>  <br/>
  <b>Reham Mohamed</b>, Arjun Arunasalam, Habiba Farrukh, Jason Tong, Antonio Bianchi, and Z. Berkay Celik <br/>
 Usenix Security Symposium 2024 
