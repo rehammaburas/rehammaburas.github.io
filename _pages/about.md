@@ -44,7 +44,7 @@ IEEE Transactions on Intelligent Transportation Systems, 2016 [[PDF]](https://re
 <br/>
 
 - <b>SemanticSLAM: Using environment landmarks for unsupervised indoor localization</b>  <br/>
-Heba Abdelnasser*, <b>Reham Mohamed* </b>, Ahmed Elgohary, Moustafa Alzantot, and Moustafa Youssef <br/>
+Heba Abdelnasser*, <b>Reham Mohamed*</b>, Ahmed Elgohary, Moustafa Alzantot, and Moustafa Youssef <br/>
 IEEE Transactions on Mobile Computing (TMC), 2015 [[PDF]](https://rehammaburas.github.io/files/SemanticSLAM.pdf)
 <br/>
 
@@ -54,7 +54,7 @@ ACM SIGSPATIAL Conference on Advances in Geographic Information Systems, 2014 [[
 <br/>
 
 - <b>Al-Bayan: An Arabic Question Answering System for the Holy Quran </b>  <br/>
-Heba Abdelnasser*,  Maha Ragab*, <b>Reham Mohamed* </b>, Alaa Mohamed*, Bassant Farouk*, Nagwa El-Makky, Marwan Torki <br/>
+Heba Abdelnasser*, Maha Ragab*, <b>Reham Mohamed*</b>, Alaa Mohamed*, Bassant Farouk*, Nagwa El-Makky, Marwan Torki <br/>
 EMNLP 2014 Workshop on Arabic Natural Language Processing (ANLP '14) [[PDF]](https://aclanthology.org/W14-3607.pdf)[[Data]](https://github.com/rehammaburas/Al-Bayan-Quran-QA-Dataset)	
 <br/>
 
