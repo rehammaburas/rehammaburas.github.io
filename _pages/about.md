@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My research interests include mobile computing, privacy and security. My primary research centers on the advancement of the privacy and utility of mobile computing technologies. In today’s world, where modern devices are ubiquitous and technology is deeply integrated into various aspects of our daily lives, there is an ongoing effort to develop advanced systems that enrich user experiences while also preserving their privacy. My research combines system design, machine learning, signal processing techniques and user studies to improve the utility of these technologies and protect users’ privacy. 
+My research interests include <b>mobile computing</b> and <b>security and privacy</b>. My primary research centers on the advancement of the privacy and utility of mobile computing technologies. In today’s world, where modern devices are ubiquitous and technology is deeply integrated into various aspects of our daily lives, there is an ongoing effort to develop advanced systems that enrich user experiences while also preserving their privacy. My research combines system design, machine learning, signal processing techniques and user studies to improve the utility of these technologies and protect users’ privacy. 
 
-I am a Ph.D. candidate in Computer Science Department at Purdue University, advised by Professor [Z. Berkay Celik](https://beerkay.github.io/) and working with the [PurSec Lab](https://pursec.cs.purdue.edu/). Before starting my Ph.D., I was working as a research assistant at the Wireless Research Center in Egypt, where I was advised by Professor [Moustafa Youssef](https://www.aucegypt.edu/fac/moustafa-amin-youssef-amin-youssef). 
+I am a Ph.D. candidate in Computer Science Department at Purdue University, advised by Professor [Z. Berkay Celik](https://beerkay.github.io/) and working with the [PurSec Lab](https://pursec.cs.purdue.edu/). Before starting my Ph.D., I was working as a research assistant at the Wireless Research Center in Egypt, where I was advised by Professor [Moustafa Youssef](https://www.aucegypt.edu/fac/moustafa-amin-youssef-amin-youssef). I was awarded the <b>Ross Fellowship</b> at Purdue University in 2018.
 
 Publications
 ============
