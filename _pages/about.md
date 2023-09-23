@@ -15,12 +15,12 @@ For full list of publications, check my [Google scholar](https://scholar.google.
 
 - <b>ATTention Please! An investigation of the App Tracking Transparency Permission.</b>  <br/>
  <b>Reham Mohamed</b>, Arjun Arunasalam, Habiba Farrukh, Jason Tong, Antonio Bianchi, and Z. Berkay Celik <br/>
-Usenix Security Symposium 2024. 
+Usenix Security Symposium 2024 
 <br/>
 
 - <b>LocIn: Inferring Semantic Location from Spatial Maps in Mixed Reality.</b>  <br/>
 Habiba Farrukh, <b>Reham Mohamed</b>,  Aniket Nare, Antonio Bianchi, and Z. Berkay Celik <br/>
-Usenix Security Symposium 2023. [[PDF]](https://www.usenix.org/system/files/usenixsecurity23-farrukh.pdf)
+Usenix Security Symposium 2023 [[PDF]](https://www.usenix.org/system/files/usenixsecurity23-farrukh.pdf)
 <br/>
 
 - <b>iStelan: Disclosing Sensitive User Information by Mobile Magnetometer from Finger Touches </b>  <br/>
