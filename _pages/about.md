@@ -15,7 +15,7 @@ For full list of publications, check my [Google scholar](https://scholar.google.
 
 - <b>ATTention Please! An investigation of the App Tracking Transparency Permission.</b>  <br/>
  <b>Reham Mohamed</b>, Arjun Arunasalam, Habiba Farrukh, Jason Tong, Antonio Bianchi, and Z. Berkay Celik <br/>
-Usenix Security Symposium 2024. [[PDF]]()
+Usenix Security Symposium 2024. 
 <br/>
 
 - <b>LocIn: Inferring Semantic Location from Spatial Maps in Mixed Reality.</b>  <br/>
@@ -54,7 +54,7 @@ ACM SIGSPATIAL Conference on Advances in Geographic Information Systems, 2014 [[
 <br/>
 
 - <b>Al-Bayan: An Arabic Question Answering System for the Holy Quran </b>  <br/>
-Heba Abdelnasser*, Maha Ragab*, <b>Reham Mohamed*</b>, Alaa Mohamed*, Bassant Farouk*, Nagwa El-Makky, Marwan Torki <br/>
+Heba Abdelnasser*, Maha Ragab*, <b>Reham Mohamed*</b>, Alaa Mohamed, Bassant Farouk, Nagwa El-Makky, Marwan Torki <br/>
 EMNLP 2014 Workshop on Arabic Natural Language Processing (ANLP '14) [[PDF]](https://aclanthology.org/W14-3607.pdf)[[Data]](https://github.com/rehammaburas/Al-Bayan-Quran-QA-Dataset)	
 <br/>
 
