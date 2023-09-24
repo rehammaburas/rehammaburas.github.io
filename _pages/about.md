@@ -37,22 +37,22 @@ Habiba Farrukh, <b>Reham Mohamed Aburas</b>, Siyuan Cao, He Wang <br/>
 
 - <b>Heartsense: Ubiquitous accurate multi-modal fusion-based heart rate estimation using smartphones  </b>  <br/>
 <b>Reham Mohamed</b> and Moustafa Youssef <br/>
-Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp '17) [[PDF]](https://rehammaburas.github.io/files/HeartSense.pdf)
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp '17) 
 <br/>
 
 - <b>Accurate Real-time Map Matching for Challenging Environments</b>  <br/>
 <b>Reham Mohamed</b>, Heba Aly and Moustafa Youssef <br/>
-IEEE Transactions on Intelligent Transportation Systems, 2016 [[PDF]](https://rehammaburas.github.io/files/SnapNet.pdf)
+IEEE Transactions on Intelligent Transportation Systems, 2016 
 <br/>
 
 - <b>SemanticSLAM: Using environment landmarks for unsupervised indoor localization</b>  <br/>
 Heba Abdelnasser*, <b>Reham Mohamed*</b>, Ahmed Elgohary, Moustafa Alzantot, and Moustafa Youssef <br/>
-IEEE Transactions on Mobile Computing (TMC), 2015 [[PDF]](https://rehammaburas.github.io/files/SemanticSLAM.pdf)
+IEEE Transactions on Mobile Computing (TMC), 2015 
 <br/>
 
 - <b>Accurate and efficient map matching for challenging environments</b> <br/>
 <b>Reham Mohamed</b>, Heba Aly and Moustafa Youssef <br/>
-ACM SIGSPATIAL Conference on Advances in Geographic Information Systems, 2014 [[PDF]](https://rehammaburas.github.io/files/SnapNet_short.pdf) 
+ACM SIGSPATIAL Conference on Advances in Geographic Information Systems, 2014 
 <br/>
 
 - <b>Al-Bayan: An Arabic Question Answering System for the Holy Quran </b>  <br/>
@@ -62,4 +62,4 @@ EMNLP 2014 Workshop on Arabic Natural Language Processing (ANLP '14) [[PDF]](htt
 
 - <b>MonoPHY: Mono-stream-based device-free WLAN localization via physical layer information</b>  <br/>
 Heba Abdelnasser*, <b>Reham Mohamed*</b>, Ibrahim Sabek and Moustafa Youssef <br/>
-IEEE Wireless Communications and Networking Conference (WCNC '13) [[PDF]](https://rehammaburas.github.io/files/MonoPHY.pdf)
+IEEE Wireless Communications and Networking Conference (WCNC '13) 
