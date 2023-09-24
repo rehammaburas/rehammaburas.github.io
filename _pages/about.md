@@ -27,7 +27,7 @@ Usenix Security Symposium 2023 [[PDF]](https://www.usenix.org/system/files/useni
 
 - <b>iStelan: Disclosing Sensitive User Information by Mobile Magnetometer from Finger Touches </b>  <br/>
 <b>Reham Mohamed</b>, Habiba Farrukh, He Wang, Yidong Lu, Z. Berkay Celik <br/>
-Privacy Enhancing Technologies (PoPETS '23) [[PDF]](https://petsymposium.org/popets/2023/popets-2023-0042.pdf)
+Privacy Enhancing Technologies Symposium (PoPETS '23) [[PDF]](https://petsymposium.org/popets/2023/popets-2023-0042.pdf)
 <br/>
 
 - <b>FaceRevelio: A Face Liveness Detection System for Smartphones with a Single Front Camera </b>  <br/>
