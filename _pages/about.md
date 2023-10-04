@@ -56,7 +56,7 @@ ACM SIGSPATIAL Conference on Advances in Geographic Information Systems, 2014
 <br/>
 
 - <b>Al-Bayan: An Arabic Question Answering System for the Holy Quran </b>  <br/>
-Heba Abdelnasser*, <b>Reham Mohamed*</b>, Maha Ragab, Alaa Mohamed, Bassant Farouk, Nagwa El-Makky, Marwan Torki <br/>
+Heba Abdelnasser*, Maha Ragab\*, <b>Reham Mohamed\*</b>, Alaa Mohamed\*, Bassant Farouk\*, Nagwa El-Makky, Marwan Torki <br/>
 EMNLP 2014 Workshop on Arabic Natural Language Processing (ANLP), 2014 [[PDF]](https://aclanthology.org/W14-3607.pdf)[[Data]](https://github.com/rehammaburas/Al-Bayan-Quran-QA-Dataset)	
 <br/>
 
