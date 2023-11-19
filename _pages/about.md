@@ -17,7 +17,7 @@ Publications
 
 - <b>ATTention Please! An investigation of the App Tracking Transparency Permission.</b>  <br/>
  <b>Reham Mohamed</b>, Arjun Arunasalam, Habiba Farrukh, Jason Tong, Antonio Bianchi, and Z. Berkay Celik <br/>
-Usenix Security Symposium 2024 [[PDF]](https://github.com/rehammaburas/rehammaburas.github.io/tree/master/files/ATT_Paper_Usenix24.pdf)
+Usenix Security Symposium 2024 [[PDF]](https://rehammaburas.github.io/files/ATT_Paper_Usenix24.pdf)
 <br/>
 
 - <b>LocIn: Inferring Semantic Location from Spatial Maps in Mixed Reality.</b>  <br/>
