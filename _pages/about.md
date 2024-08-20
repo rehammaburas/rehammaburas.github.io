@@ -10,7 +10,7 @@ redirect_from:
 
 My research interests include <b>mobile computing</b> and <b>security and privacy</b>. My primary research centers on the advancement of the privacy and utility of mobile computing technologies. In today’s world, where modern devices are ubiquitous and technology is deeply integrated into various aspects of our daily lives, there is an ongoing effort to develop advanced systems that enrich user experiences while also preserving their privacy. My research combines system design, machine learning, signal processing techniques and user studies to improve the utility of these technologies and protect users’ privacy. 
 
-I am a Ph.D. candidate in the Computer Science Department at Purdue University, advised by Professor [Z. Berkay Celik](https://beerkay.github.io/) and working with the [PurSec Lab](https://pursec.cs.purdue.edu/). Before starting my Ph.D., I was working as a research assistant at the Wireless Research Center in Egypt, where I was advised by Professor [Moustafa Youssef](https://www.aucegypt.edu/fac/moustafa-amin-youssef-amin-youssef). I was awarded the <b>Ross Fellowship</b> at Purdue University in 2018.
+I am an Assistant Professor in the Computer Science and Engineering department at the American University of Sharjah (AUS). I earned my Ph.D. in Computer Science at Purdue University, where I was advised by Professor [Z. Berkay Celik](https://beerkay.github.io/) at the [PurSec Lab](https://pursec.cs.purdue.edu/). I received my B.Sc. and M.Sc. degrees in Computer and Systems Engineering from Alexandria University. I am also an alum of the Wireless Research Center in Egypt, where I was mentored by Professor [Moustafa Youssef](https://www.aucegypt.edu/fac/moustafa-amin-youssef-amin-youssef). 
 
 Publications
 ============
