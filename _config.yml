@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Reham Mohamed Aburas"
 title_separator          : "-"
 name                     : &name "Reham Mohamed Aburas"
-description              : &description "Phd Candidate @ Purdue University"
+description              : &description "Assistant Professor @ AUS"
 url                      : https://rehammaburas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rehammaburas.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Reham Aburas"
   avatar           : "profile.png"
-  bio              : "PhD Candidate @ Purdue University"
-  location         : "West Lafayette, IN, USA"
+  bio              : "Assistant Professor @ AUS"
+  location         : "Sharjah, UAE"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rdIzDcEAAAAJ&hl=en"
