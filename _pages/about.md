@@ -10,10 +10,15 @@ redirect_from:
 
 My research interests include <b>mobile computing</b> and <b>security and privacy</b>. My primary research centers on the advancement of the security, privacy and usability of mobile computing technologies. In today’s world, where modern devices are ubiquitous and technology is deeply integrated into various aspects of our daily lives, there is an ongoing effort to develop advanced systems that enrich user experiences while also preserving their security and privacy.  
 
-I am an Assistant Professor in the Department of Computer Science and Engineering at the American University of Sharjah (AUS). I earned my Ph.D. in Computer Science at Purdue University, where I was advised by Professor [Z. Berkay Celik](https://beerkay.github.io/) at the [PurSec Lab](https://pursec.cs.purdue.edu/). I received my B.Sc. and M.Sc. degrees in Computer and Systems Engineering from Alexandria University. I am also an alum of the Wireless Research Center in Egypt, where I was mentored by Professor [Moustafa Youssef](https://www.aucegypt.edu/fac/moustafa-amin-youssef-amin-youssef). 
+I am an Assistant Professor in the Department of Computer Science and Engineering at the American University of Sharjah (AUS). I earned my Ph.D. in Computer Science at Purdue University, where I was advised by Professor [Z. Berkay Celik](https://beerkay.github.io/) at the [PurSec Lab](https://pursec.cs.purdue.edu/). I received my B.Sc. and M.Sc. degrees in Computer and Systems Engineering from Alexandria University. 
 
 Publications
 ============
+
+- <b>Speak Up, I’m Listening: Extracting Speech from Zero-Permission VR Sensors.</b>  <br/>
+Derin Cayir, <b>Reham Mohamed Aburas</b>, Riccardo Lazzeretti, Marco Angelini, Abbas Acar, Mauro Conti, Z. Berkay Celik and Selcuk Uluagac  <br/>
+NDSS 2025 
+<br/>
 
 - <b>ATTention Please! An investigation of the App Tracking Transparency Permission.</b>  <br/>
  <b>Reham Mohamed</b>, Arjun Arunasalam, Habiba Farrukh, Jason Tong, Antonio Bianchi, and Z. Berkay Celik <br/>
