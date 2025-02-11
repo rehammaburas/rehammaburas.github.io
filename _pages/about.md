@@ -15,7 +15,7 @@ I am an Assistant Professor in the Department of Computer Science and Engineerin
 Publications
 ============
 - <b>Shadowed Realities: An Investigation of UI Attacks in WebXR.</b>  <br/>
-Chandrika Mukherjee, <b>Reham Mohamed<\b>, Arjun Arunasalam, Habiba Farrukh, and Z. Berkay Celik  <br/>
+Chandrika Mukherjee, <b>Reham Mohamed</b>, Arjun Arunasalam, Habiba Farrukh, and Z. Berkay Celik  <br/>
 USENIX Security Symposium 2025 [[PDF]](https://rehammaburas.github.io/files/2025_Shadowed_Realities_watermark.pdf)
 <br/>
 
