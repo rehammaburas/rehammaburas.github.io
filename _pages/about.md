@@ -26,7 +26,7 @@ USENIX Security Symposium 2025 [[PDF]](https://rehammaburas.github.io/files/2025
 
 - <b>Speak Up, I’m Listening: Extracting Speech from Zero-Permission VR Sensors.</b>  <br/>
 Derin Cayir, <b>Reham Mohamed Aburas</b>, Riccardo Lazzeretti, Marco Angelini, Abbas Acar, Mauro Conti, Z. Berkay Celik and Selcuk Uluagac  <br/>
-Network and Distributed System Security (NDSS) Symposium 2025 
+Network and Distributed System Security (NDSS) Symposium 2025 [[PDF]](https://www.ndss-symposium.org/wp-content/uploads/2025-164-paper.pdf)
 <br/>
 
 - <b>ATTention Please! An investigation of the App Tracking Transparency Permission.</b>  <br/>
