@@ -16,12 +16,14 @@ Publications
 ============
 - <b>Side-channel Inference of User Activities in AR/VR Using GPU Profiling.</b>  <br/>
 Seonghun Son, Chandrika Mukherjee, <b>Reham Mohamed Aburas</b>, Berk Gulmezoglu, and Z. Berkay Celik  <br/>
-Network and Distributed System Security (NDSS) Symposium 2026 [[PDF]](https://arxiv.org/pdf/2509.10703)
+Network and Distributed System Security (NDSS) Symposium 2026 [[PDF]](https://arxiv.org/pdf/2509.10703) <br/>
+Received _Meta's Bug Bounty_
 <br/>
 
 - <b>Shadowed Realities: An Investigation of UI Attacks in WebXR.</b>  <br/>
 Chandrika Mukherjee, <b>Reham Mohamed</b>, Arjun Arunasalam, Habiba Farrukh, and Z. Berkay Celik  <br/>
-USENIX Security Symposium 2025 [[PDF]](https://rehammaburas.github.io/files/2025_Shadowed_Realities_watermark.pdf)
+USENIX Security Symposium 2025 [[PDF]](https://rehammaburas.github.io/files/2025_Shadowed_Realities_watermark.pdf) <br/>
+Received _Honorable Mention Award_
 <br/>
 
 - <b>Speak Up, I’m Listening: Extracting Speech from Zero-Permission VR Sensors.</b>  <br/>
